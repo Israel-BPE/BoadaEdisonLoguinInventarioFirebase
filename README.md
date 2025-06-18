@@ -1,2 +1,1 @@
-﻿# Boada_Edison_Ejercicio_LiginInventario
 # BoadaEdisonLoguinInventarioFirebase
